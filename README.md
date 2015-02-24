@@ -9,7 +9,7 @@ StormyMode's Youtube Page: https://www.youtube.com/user/stormymodemodding
 
 AT Launcher Web Page: http://www.atlauncher.com/pack/TheScientistsToolbox/
 
-Bug/Issue Tracker: https://github.com/StormyMode/ToolboxModpack
+Bug/Issue Tracker: https://github.com/StormyMode/TheScientistsToolbox
 
 Permissions for mod use: https://docs.google.com/spreadsheets/d/1eXH-Snao-NYy4olwOGG9sGMEPK6CqsJwsBuOF2TK2Hw/edit?usp=sharing
 
